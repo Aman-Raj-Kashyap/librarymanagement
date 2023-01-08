@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: LibraryManagement
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: amankashyap
+Implementation-Vendor-Id: com.nagarro
+Build-Jdk: 1.8.0_333
+Implementation-URL: https://spring.io/projects/spring-boot/LibraryMana
+ gement
+Created-By: Maven Integration for Eclipse
+Main-Class: com.nagarro.assignment.LibraryManagementApplication
+

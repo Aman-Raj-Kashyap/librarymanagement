@@ -1,0 +1,9 @@
+com\nagarro\assignment\dao\AuthorDao.class
+com\nagarro\assignment\model\Book.class
+com\nagarro\assignment\service\AuthorService.class
+com\nagarro\assignment\controller\AuthorController.class
+com\nagarro\assignment\LibraryManagementApplication.class
+com\nagarro\assignment\controller\HomeController.class
+com\nagarro\assignment\model\Author.class
+com\nagarro\assignment\dao\BookDao.class
+com\nagarro\assignment\service\BookService.class
